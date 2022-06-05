@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "reddit-image-fetcher": "^2.0.11"
+  }
+}
