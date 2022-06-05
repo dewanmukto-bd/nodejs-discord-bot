@@ -11,19 +11,6 @@ class botClient extends Client {
         this.prefix = this.config.PREFIX;
         this.token = this.config.TOKEN;
         const client = this;
-        this.distube = new DisTube(client, {
-            searchSongs: 0,
-            searchCooldown: 30,
-            leaveOnEmpty: this.config.LEAVE_IDLE,
-            emptyCooldown: this.config.LEAVE_IDLE_COUNTDOWN,
-            leaveOnFinish: this.config.LEAVE_FINISH,
-            leaveOnStop: this.config.LEAVE_STOP,
-            plugins: [
-                new SoundCloudPlugin(),
-                new SpotifyPlugin({
-                    emitEventsAfterFetching: true
-                })],
-        });
         ["aliases","commands"].forEach(x => client[x] = new Collection());
         ["loadCommands", "loadEvents", "loadDistube"].forEach(x => require(`./handlers/${x}`)(client));   
     }
