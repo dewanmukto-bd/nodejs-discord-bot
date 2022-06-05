@@ -6,14 +6,14 @@ Node.js, Discord.js, NPM
 
 ## Credits
 Based on [Adivise/DisSpaceX](https://github.com/Adivise/DisSpaceX).
-Individual 'plugins' for the commands have been made by [Dewan Mukto](), excluding the **handlers** and **events**.
+Individual commands have been crafted by [Dewan Mukto](), excluding the **handlers** and **events**.
 Extra credits go to the creators of the NPM modules used herein.
 
 |Name|Role|
 |:---|:---|
-|[Adivise](https://github.com/Adivise/)|Boilerplate inspiration, directory structure designer|
-|[Dewan Mukto](https://github.com/dmimukto)|Developer, graphic designer, marketing lead|
-|[Ariful Alam](https://github.com/arifszn)|Creator of NPM/reddit-image-fetcher|
+|🇹🇭️ [Adivise](https://github.com/Adivise/)|Boilerplate inspiration, directory structure designer|
+|🇧🇩️ [Dewan Mukto](https://github.com/dmimukto)|Developer, graphic designer, marketing lead|
+|🇧🇩️ [Ariful Alam](https://github.com/arifszn)|Creator of NPM/reddit-image-fetcher|
 
 ### Features
 - ✔️ [🛡️Safety] **Auto-detect suspicious scam links**
