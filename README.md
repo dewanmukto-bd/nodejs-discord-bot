@@ -23,6 +23,7 @@ Extra credits go to the creators of the NPM modules used herein.
 - ✔️ [⚒️Tools] **Mass message deletion ('purge' feature)**
 - ✔️ [⚒️Tools] **Count to infinity**
 - ✔️ [⚒️Tools] **Moderation (kick, ban, etc.)**
+- ✔️ [⚒️Tools] **Serverwise™️ message and activity logging**
 - ✔️ [🎭Entertainment] **Fetch memes, images from Reddit**
 - ✔️ [🎭Entertainment] **Fetch animal pictures (e.g. cat, dog, fox, etc.)**
 - ✔️ [🎭Entertainment] **Gacha card collection**
