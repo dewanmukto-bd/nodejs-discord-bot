@@ -1,6 +1,6 @@
 # MuxDay
 Discord.js bot with safety, entertainment, moderation features. <br /><br />
-<img src="https://muxday.apps.dewanmukto.com/assets/images/MuxDay_bot_banner.png" width="50%">
+<img src="https://muxday.dewanmukto.com/assets/images/MuxDay_bot_banner.png" width="50%">
 
 ### Technologies used
 Node.js, Discord.js, NPM
